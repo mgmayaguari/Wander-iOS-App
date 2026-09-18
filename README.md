@@ -1,5 +1,9 @@
 # Wander iOS App
 
+> **Archived — original concept, not actively developed**
+> This was the first version of the idea: an iOS app that builds an activity itinerary around a budget and a preference quiz. It's being reimagined as an AI-assisted travel planner — same premise, rebuilt with a retrieval-grounded agent and guardrails (budget caps, opening-hours grounding, no double-booking) instead of static logic. Kept here, read-only, as the origin of the concept. Link to the new build will go here once it exists.
+
+
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
